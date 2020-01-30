@@ -1,0 +1,41 @@
+body,
+html { 
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(notebook.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+h1{
+    color: #e2dbdb;
+}
+.btn{
+  border-radius: 200px;
+  font-weight: 300;
+}
+.btn-warning{
+  background-color: #F05F44;
+  border: solid #F05F44;
+}
+.btn-warning:hover{
+  background-color:#ee4b08;
+  border: solid #ee4b08;
+  border-width: 4px;
+}
+.btn-xl{
+  padding: 10px;
+}
+hr{
+  border-color: #ee4b08;
+  width: 69px;
+  border-width: 2px;
+}
+.buffer{
+  height: 10rem;
+}
+button{
+  color: #e2dbdb;
+}
